@@ -1,0 +1,37 @@
+% Re:VIEW 2互換のlayout.tex.erb記載相当の内容
+\RequirePackage{review-base}
+
+% Re:VIEW 2互換のreviewmacro.sty(装飾カスタマイズ)内容
+\RequirePackage{review-style}
+
+% ユーザー固有の定義
+\RequirePackage{review-custom}
+
+%% run \@endofreviewmacrohook at the end of reviewmacro style
+\@ifundefined{@endofreviewmacrohook}{}{%
+\let\AtEndOfReVIEWMacro\@firstofone
+\@endofreviewmacrohook}
+
+\endinput
+
+## リンク色を黒に変更
+\hypersetup{colorlinks=false}
+
+## 奇数ページ始まりを許可する
+\newcommand{\tableofcontents}{%
+  \settowidth\jsc@tocl@width{\headfont\prechaptername\postchaptername}%
+  \settowidth\@tempdima{\headfont\appendixname}%
+  \ifdim\jsc@tocl@width<\@tempdima \setlength\jsc@tocl@width{\@tempdima}\fi
+  \ifdim\jsc@tocl@width<2zw \divide\jsc@tocl@width by 2 \advance\jsc@tocl@width 1zw\fi
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse
+  \fi
+  \clearpage
+  \plainifnotempty
+  \@makechapterhead{\contentsname}
+  \@mkboth{\contentsname}{}%
+  \@starttoc{toc}%
+  \if@restonecol\twocolumn\fi
+}

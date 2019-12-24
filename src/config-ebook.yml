@@ -1,0 +1,4 @@
+inherit: ["config.yml"]
+texdocumentclass: ["review-jsbook", "media=ebook,paper=b5,serial_pagination=true,openany,oneside,fontsize=10pt,baselineskip=15.4pt,line_length=44zw,number_of_lines=38,head_space=25mm,headsep=10mm,headheight=6mm,footskip=15mm"]
+pdfmaker:
+  coverimage: coverpage.png

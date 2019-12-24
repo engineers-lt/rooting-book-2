@@ -1,0 +1,32 @@
+review_version: 3.1
+bookname: rooting-book-2
+language: ja
+booktitle: {name: "エンジニアの成長を応援する本2", file-as: "エンジニアノセイチョウヲオウエンスルホンツー"}
+aut: []
+dsr: Nanami Iida
+edt: エンジニアの登壇を応援する会Admins
+pbl: エンジニアの登壇を応援する会
+prt: 株式会社しまや出版
+date: 2020-06-27
+history: [["2020-06-27 第三回 技術書同人誌博覧会"]]
+rights: (C) 2020 エンジニアの登壇を応援する会
+description: エンジニアの成長を応援するために、コミュニティ所属のメンバーによって綴られた「挑戦」「失敗」「決断」をテーマにした合同誌です
+subject: 技書博２公式ガイドブック
+type: ["技術書", "合同誌", "エンジニアの登壇を応援する会", "挑戦", "失敗", "決断"]
+debug: null
+urnid: urn:uid:https://github.com/engineers-lt/rooting-book-2
+stylesheet: ["style.css"]
+epubversion: 3
+htmlversion: 5
+toclevel: 3
+secnolevel: 3
+toc: true
+cover: null
+titlefile: chap-title.tex
+page_metric: B5
+direction: "ltr"
+epubmaker:
+  htmlext: xhtml
+texstyle: ["reviewmacro"]
+pdfmaker:
+  colophon: true
