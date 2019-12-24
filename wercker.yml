@@ -10,4 +10,4 @@ build:
           review pdfmaker config-ebook.yml
     - script:
       name: output artifacts
-      code: cp src/Guidebook2.pdf $WERCKER_REPORT_ARTIFACTS_DIR/
+      code: cp src/rooting-book-2.pdf $WERCKER_REPORT_ARTIFACTS_DIR/
