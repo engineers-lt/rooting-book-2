@@ -9,6 +9,8 @@ CHAPS:
     # ここに自身の章を追加してください
     # ファイル名は「chap-challenge-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+    # 「アウトプットが導いてくれた未来（仮）」 / @maiamea
+    - chap-challenge-maiamea.re
 
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
