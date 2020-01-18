@@ -26,5 +26,8 @@ CHAPS:
     # ファイル名は「chap-decision-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
 
+    # 人生は決断の連続だ / @kazto
+    - chap-decision-kazto.re
+
 POSTDEF:
   - chap-contributors.re
