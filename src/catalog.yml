@@ -10,6 +10,9 @@ CHAPS:
     # ファイル名は「chap-challenge-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
 
+    # 「ダミー」 / @nainastar
+    - chap-challenge-nainaistar.re
+
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
     # タイトルほげほげ / @dummy
