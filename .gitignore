@@ -1,3 +1,5 @@
 node_modules/
 src/*.pdf
 .DS_Store
+
+.idea
