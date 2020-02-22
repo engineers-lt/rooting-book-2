@@ -17,6 +17,8 @@ CHAPS:
     # ここに自身の章を追加してください
     # ファイル名は「chap-failure-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+    # タイトル未定（失敗） / @akkino/D-En
+    - chap-failure-akkino_d_En.re
 
   # 3部 決断/Decision
   - chap-decision-00-index.re:
