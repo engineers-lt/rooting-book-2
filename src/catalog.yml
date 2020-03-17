@@ -9,6 +9,8 @@ CHAPS:
     # ここに自身の章を追加してください
     # ファイル名は「chap-challenge-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+    # 挑戦する体験を通じて学ぶ「経験学習型」研修でお伝えしていること / @tetsunosuke
+    - chap-challenge-tetsunosuke.re
 
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
