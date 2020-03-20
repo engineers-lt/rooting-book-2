@@ -1,7 +1,7 @@
 = GIANT の中には ANT がいる
 
 //flushright{
-sogaoh（@sogaoh）
+央（@sogaoh）
 //}
 
 
