@@ -6,9 +6,20 @@ CHAPS:
   - chap-challenge-00-index.re:
     # タイトルほげほげ / @dummy
     - chap-challenge-dummy.re
+    # 官公庁DevOpsへの道 / @akikirinrin
+    - chap-challenge-akikirinrin.re
     # ここに自身の章を追加してください
     # ファイル名は「chap-challenge-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+    # 挑戦する体験を通じて学ぶ「経験学習型」研修でお伝えしていること / @tetsunosuke
+    - chap-challenge-tetsunosuke.re
+
+    # エンジニアとしての証を残すための「挑戦」
+    - chap-challenge-amarelo.re
+
+    # わたしのアウトプット克服物語（仮） / @maiamea
+    - chap-challenge-maiamea.re
+
 
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
@@ -24,9 +35,14 @@ CHAPS:
   - chap-decision-00-index.re:
     # タイトルほげほげ / @dummy
     - chap-decision-dummy.re
+    # タイトル：思いつきという名の決断　〜実行したことがもたらしてくれたもの / @おやかた
+    - chap-decision-oyakata.re
     # ここに自身の章を追加してください
     # ファイル名は「chap-decision-[アカウント].re」としてください
-    # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+    # 挿入行の前にかならず「タイトル / アカウント」をコメント挿入してください
+
+    # GIANT の中には ANT がいる / @sogaoh
+    - chap-decision-sogaoh.re
 
 POSTDEF:
   - chap-contributors.re
