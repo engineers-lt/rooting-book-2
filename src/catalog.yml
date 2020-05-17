@@ -14,6 +14,13 @@ CHAPS:
     # 挑戦する体験を通じて学ぶ「経験学習型」研修でお伝えしていること / @tetsunosuke
     - chap-challenge-tetsunosuke.re
 
+    # エンジニアとしての証を残すための「挑戦」
+    - chap-challenge-amarelo.re
+
+    # わたしのアウトプット克服物語（仮） / @maiamea
+    - chap-challenge-maiamea.re
+
+
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
     # タイトルほげほげ / @dummy
@@ -21,6 +28,9 @@ CHAPS:
     # ここに自身の章を追加してください
     # ファイル名は「chap-failure-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
+
+    # より良い人生だったと満足するための失敗の楽しみ方 / @DddEndow
+    - chap-failure-akkino_d_En.re
 
   # 3部 決断/Decision
   - chap-decision-00-index.re:
@@ -31,6 +41,9 @@ CHAPS:
     # ここに自身の章を追加してください
     # ファイル名は「chap-decision-[アカウント].re」としてください
     # 挿入行の前にかならず「タイトル / アカウント」をコメント挿入してください
+
+    # GIANT の中には ANT がいる / @sogaoh
+    - chap-decision-sogaoh.re
 
 POSTDEF:
   - chap-contributors.re
