@@ -6,8 +6,8 @@ CHAPS:
   - chap-challenge-00-index.re:
     # タイトルほげほげ / @dummy
     - chap-challenge-dummy.re
-    # 官公庁DevOpsへの道 / @akikirinrin
-    - chap-challenge-akikirinrin.re
+    # 官公庁DevOpsへの道 / @Rindrics
+    - chap-challenge-rindrics.re
     # ここに自身の章を追加してください
     # ファイル名は「chap-challenge-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
