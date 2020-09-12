@@ -4,8 +4,6 @@ PREDEF:
 CHAPS:
   # 1部 挑戦/Challenge
   - chap-challenge-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-challenge-dummy.re
     # 官公庁DevOpsへの道 / @Rindrics
     - chap-challenge-rindrics.re
     # ここに自身の章を追加してください
@@ -23,8 +21,6 @@ CHAPS:
 
   # 2部 失敗/Failure
   - chap-failure-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-failure-dummy.re
     # ここに自身の章を追加してください
     # ファイル名は「chap-failure-[アカウント].re」としてください
     # 挿入業の前にかならず「タイトル / アカウント」をコメント挿入してください
@@ -34,8 +30,6 @@ CHAPS:
 
   # 3部 決断/Decision
   - chap-decision-00-index.re:
-    # タイトルほげほげ / @dummy
-    - chap-decision-dummy.re
     # タイトル：思いつきという名の決断　〜実行したことがもたらしてくれたもの / @おやかた
     - chap-decision-oyakata.re
     # ここに自身の章を追加してください
